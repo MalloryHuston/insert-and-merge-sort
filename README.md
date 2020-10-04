@@ -18,5 +18,5 @@
 3. The output will be written to files called *merge.out* and *insert.out* in the same directory as *mergesort.py* and *insertsort.py*.
 
 **To run *mergeTime.py* and *insertTime.py***:
-1. Run *mergeTime.py* and *mergesort.py*.
+1. Run *mergeTime.py* and *insertTime.py*.
 2. Array size and runtime will be printed to the screen.
