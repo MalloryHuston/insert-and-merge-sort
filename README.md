@@ -1,12 +1,10 @@
 # Foundations and Growth of Functions #
-Graphs the running times of insertion sort and merge sort algorithms that sort data from a text file in descending order.
 
 ## Files ##
-***file_handler.py***: Wraps the reading/writing of code to text files into functions that can be called from outside of the file.
 
-***algorithms.py***: Contains the functions for the insertion sort and merge sort algorithms.
+***mergesort.py*** and ***insertsort.py***: These use the *file_handler.py* and *algorithms.py* functions to read data from the *data.txt* file, sort the data, and then write the data out to their respective *insert.out* and *merge.out* files.
 
-***insertsort.py*** and ***mergesort.py***: These use the *file_handler.py* and *algorithms.py* functions to read data from the *data.txt* file, sort the data, and then write the data out to their respective *insert.out* and *merge.out* files.
+***mergeTime.py*** and ***insertTime.py***: Graphs the running times of insertion sort and merge sort algorithms that sort data from a text file in descending order.
 
 ## Instructions ##
 **To run *mergesort.py* and *insertsort.py***:
@@ -19,6 +17,6 @@ Graphs the running times of insertion sort and merge sort algorithms that sort d
         8 1 2 3 4 5 6 1 2</code></pre>
 3. The output will be written to files called *merge.out* and *insert.out* in the same directory as *mergesort.py* and *insertsort.py*.
 
-**To run *mergeTime.py* and *mergesort.py***:
+**To run *mergeTime.py* and *insertTime.py***:
 1. Run *mergeTime.py* and *mergesort.py*.
 2. Array size and runtime will be printed to the screen.
