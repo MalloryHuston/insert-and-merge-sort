@@ -19,6 +19,6 @@ Graphs the running times of insertion sort and merge sort algorithms that sort d
         8 1 2 3 4 5 6 1 2</code></pre>
 3. The output will be written to files called *merge.out* and *insert.out* in the same directory as *mergesort.py* and *insertsort.py*.
 
-**To run *mergeTime.py* and *mergeSort.py***:
-1. Run *mergeTime.py* and *mergeSort.py*.
+**To run *mergeTime.py* and *mergesort.py***:
+1. Run *mergeTime.py* and *mergesort.py*.
 2. Array size and runtime will be printed to the screen.
