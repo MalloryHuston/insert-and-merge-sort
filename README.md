@@ -10,7 +10,7 @@ Graphs the running times of insertion sort and merge sort algorithms that sort d
 
 ## Instructions ##
 **To run ```mergesort.py``` and ```insertsort.py```**:
-1. The file ```sata.txt``` needs to be in the same directory as ```mergesort.py``` and ```insertsort.py```.
+1. The file ```data.txt``` needs to be in the same directory as ```mergesort.py``` and ```insertsort.py```.
 2. The ```data.txt``` file structure follows:
     1. First value of each line is the number of integers that need to be sorted, followed by the integers.
     2. Example values for ```data.txt```:
