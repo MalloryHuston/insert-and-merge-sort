@@ -4,7 +4,7 @@ Graphs the running times of insertion sort and merge sort algorithms that sort d
 
 ## Files ##
 
-```mergesort.py``` and ```insertsort.py```: These use the necessary functions to read data from the ```data.txt``` file, sort the data, and then write the data out to their respective *insert.out* and *merge.out* files.
+```mergesort.py``` and ```insertsort.py```: These use the necessary functions to read data from the ```data.txt``` file, sort the data, and then write the data out to their respective ```insert.out``` and ```merge.out``` files.
 
 ```mergeTime.py``` and ```insertTime.py```: Uses the system clock to record the running times of each algorithm for n = 5000, 10000, 15000, 20,000, …. Then outputs the array size n and time to the terminal.
 
