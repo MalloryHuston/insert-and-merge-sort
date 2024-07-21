@@ -1,6 +1,6 @@
 # Foundations and Growth of Functions #
 
-Graphs the running times of insertion sort and merge sort algorithms that sort data from a text file in descending order. Homework assignment from CS325 at Oregon State University.
+Graphs the running times of insertion sort and merge sort algorithms that sort data from a text file in descending order. Homework assignment from CS325 – Analysis of Algorithms at Oregon State University.
 
 ## Files ##
 
